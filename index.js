@@ -1,7 +1,7 @@
 const app = require('./app')
 const config = require('./config')
 
-const PORT = config.port || 5000 
+const PORT = config.port || 8080 
 
 // Error Handling Middleware
 
